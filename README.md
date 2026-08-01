@@ -154,7 +154,7 @@
 - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
 - [annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 
-3，最后，持续高质量创作不易，有 `5` 秒空闲时间的，**可以扫码关注我的公众号-嵌入式视觉**，记录 CV 算法工程师成长之路，分享技术总结、读书笔记和个人感悟。
+3，最后，持续高质量创作不易，有 `5` 秒空闲时间的，**可以扫码关注我的公众号-嵌入式视觉**，记录 `CV` 算法工程师成长之路，分享技术总结、读书笔记和个人感悟。
 > 公众号不会写标题党文章，也不输出给大家带来的焦虑的内容！
 
 ![qcode](images/others/qcode.png)
